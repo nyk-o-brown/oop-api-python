@@ -1,0 +1,50 @@
+[
+  {
+    "player_name": "Marcus Rashford",
+    "team": "Manchester United",
+    "position": "Forward",
+    "age": 27,
+    "nationality": "England",
+    "rating": 7.8,
+    "goals": 2,
+    "assists": 1,
+    "minutes_played": 89,
+    "match_date": "2025-08-24",
+    "opponent": "Fulham",
+    "pass_accuracy": "84%",
+    "dribbles_completed": 5,
+    "shots_on_target": 3
+  },
+  {
+    "player_name": "João Palhinha",
+    "team": "Fulham",
+    "position": "Midfielder",
+    "age": 29,
+    "nationality": "Portugal",
+    "rating": 7.2,
+    "goals": 0,
+    "assists": 0,
+    "minutes_played": 90,
+    "match_date": "2025-08-24",
+    "opponent": "Manchester United",
+    "pass_accuracy": "89%",
+    "tackles": 6,
+    "interceptions": 3
+  },
+  {
+    "player_name": "Bruno Fernandes",
+    "team": "Manchester United",
+    "position": "Midfielder",
+    "age": 30,
+    "nationality": "Portugal",
+    "rating": 8.3,
+    "goals": 1,
+    "assists": 2,
+    "minutes_played": 90,
+    "match_date": "2025-08-24",
+    "opponent": "Fulham",
+    "pass_accuracy": "91%",
+    "key_passes": 6,
+    "chances_created": 4
+  }
+]
