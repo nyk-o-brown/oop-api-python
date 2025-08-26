@@ -7,5 +7,13 @@ mydb = mysql.connector.Connect(
     database="yourdatabase"
 )
 
-print(mydb.get_server_info())
+mycursor = mydb.cursor()
+mycursor.execute("SELECT * FROM your_table")
+myresult = mycursor.fetchall()
+
+for row in myresult:
+    print(row)
+
+
+
 
